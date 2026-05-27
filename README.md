@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Juandaprogram">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=700&lines=Ingeniero+de+Sistemas+💻;Transformando+datos+en+decisiones+📊;Python+%7C+SQL+Server+%7C+Power+BI+⚡;Automatizando+procesos+con+IA+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=4A90E2&center=true&vCenter=true&width=700&lines=Ingeniero+de+Sistemas;Transformando+datos+en+decisiones;Python+%7C+SQL+Server+%7C+Power+BI;Automatizando+procesos+con+IA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -110,20 +110,13 @@ Pipeline ETL automatizado para el análisis del ciclo de pedidos en operaciones 
 ---
 
 <!-- ============================================================= -->
-<!-- 📊 STATS con icono animado                                    -->
+<!-- 📊 STATS con icono animado - VERSIÓN LIMPIA                   -->
 <!-- ============================================================= -->
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Juandaprogram&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juandaprogram&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&bg_color=0D1B2A&title_color=4A90E2&text_color=ffffff" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juandaprogram&bg_color=0D1B2A&color=4A90E2&line=4A90E2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juandaprogram&theme=midnight-purple&hide_border=true&background=0D1B2A&stroke=0D1B2A&ring=4A90E2&fire=4A90E2&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=4A90E2&dates=778DA9" alt="GitHub Streak Stats" />
 </div>
 
 <br>
